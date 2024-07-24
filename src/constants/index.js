@@ -42,19 +42,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Web Development",
       icon: web,
     },
     {
-      title: "React Developer",
+      title: "React Development",
       icon: mobile,
     },
     {
-      title: "Frontend Developer",
+      title: "Photo Editing",
       icon: backend,
     },
     {
-      title: "Video Editor",
+      title: "Video Editing",
       icon: creator,
     },
   ];
@@ -102,12 +102,12 @@ import {
       company_name: "The University of the West of England",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "September 2020 - July 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Developing and maintaining software for clients using JavaScript and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Participating in code reviews and providing constructive feedback to other students.",
       ],
     },
     {
@@ -115,40 +115,28 @@ import {
       company_name: "Freelance",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "July 2024 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Designing Web applications using React.js and other related technologies.",
+        "Understand client requirements and provide regular progress updates.",
+        "Develop design concepts and wireframes for responsive user interfaces.",
+        "Write clean HTML, CSS, and JavaScript code for interactive UIs. Set up servers, databases and implement APIs. ",
+        "Manage hosting environments and deploy updates to live sites. Whilst also analysing the site by using SEO practices.",
+
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Next Job",
+      company_name: "N/a",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Soon",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "",
+        
       ],
     },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+  
   ];
   
   const testimonials = [
@@ -180,67 +168,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "CycleNav",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "For my dissertation, I developed a navigation web service tailored specifically for cyclists. While established services like Google Maps exist, my aim was to create a platform that caters to the unique needs of the cycling community.",
       tags: [
         {
-          name: "react",
+          name: "JavaScript",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "MapBoxAPI",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Bootstrap",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Gulzey/Cyclenav",
     },
     {
-      name: "Job IT",
+      name: "Adhan Alert",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Adhan Alert is a user-friendly website designed to help users track prayer times in their city. Utilizing the Aladhan API and Geolocation API, it accurately displays prayer schedules based on the user's location. ",
       tags: [
         {
-          name: "react",
+          name: "JavaScript",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "AladhanAPI",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Bootstrap",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Gulzey/AdhanAlert",
     },
     {
-      name: "Trip Guide",
+      name: "Portfolio",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "My portfolio web app is a showcase of dynamic, responsive websites and applications created by me. Featuring a collection of projects, it highlights my skills in designing and implementing user-friendly interfaces with robust functionality.",
       tags: [
         {
-          name: "nextjs",
+          name: "reactJS",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "vite",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Gulzey/PF",
     },
   ];
   

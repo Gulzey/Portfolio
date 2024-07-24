@@ -47,7 +47,7 @@ const About = () => {
       variants={fadeIn("","",0.1,1)}
       className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
       
-      Hello! I’m a 23-year-old software engineering graduate from the University of the West of England. I have a a deep passion for web development and I love creating dynamic and user-friendly digital experiences. I am well versed in Javascript, HTML, CSS and React. I have built this website by utilising React.js and Three.js to include the 3D objects. 
+      Hello! I’m a 23-year-old software engineering graduate from the University of the West of England. I have a a deep passion for web development and I love creating dynamic and user-friendly digital experiences. I am well versed in Javascript, HTML, CSS and React. I have built this website by utilising React.js and Three.js to include the 3D objects. I also Enjoy Photo & Video editing and I am proficient in Adobe services such as After Effects and Photoshop.  Here are my skills:  
     
     </motion.p>
 

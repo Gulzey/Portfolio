@@ -8,7 +8,7 @@ import { projects } from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
 
 const ProjectCard = ({ index, name, description, tags,
-   image, source_code_Link }) => {
+   image, source_code_link }) => {
   return (
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
       <Tilt
@@ -29,7 +29,7 @@ const ProjectCard = ({ index, name, description, tags,
           justify-end m-3 card-img_hover'>
             <div 
             onClick={() => window.open
-              (source_code_Link, "_blank")}
+              (source_code_link, "_blank")}
               className='black-gradient w-10 h-10 rounded-full flex
                justify-center items-center cursor-pointer'>
                 <img 

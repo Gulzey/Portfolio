@@ -191,7 +191,7 @@ import {
     {
       name: "Adhan Alert",
       description:
-        "Adhan Alert is a user-friendly website designed to help users track prayer times in their city. Utilizing the Aladhan API and Geolocation API, it accurately displays prayer schedules based on the user's location. ",
+        "A user-friendly website designed to help users track prayer times in their city. Utilizing the Aladhan API and Geolocation API, it accurately displays prayer schedules based on the user's location. It will soon become a web application through ReactJS. ",
       tags: [
         {
           name: "JavaScript",

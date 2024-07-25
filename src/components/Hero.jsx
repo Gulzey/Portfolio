@@ -9,6 +9,8 @@ const Hero = () => {
     // Create a new audio element and play it
     const audio = new Audio(sound);
     audio.volume = 0.3;
+    audio.loop = true;
+
     audio.play().catch(error => {
       console.error('Error playing sound automatically:', error);
       // If the browser prevented autoplay, provide a fallback to play on user interaction

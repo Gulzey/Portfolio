@@ -98,7 +98,7 @@ import {
   
   const experiences = [
     {
-      title: "Studies",
+      title: "Software Engineering Degree",
       company_name: "The University of the West of England",
       icon: starbucks,
       iconBg: "#383E56",

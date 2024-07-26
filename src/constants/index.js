@@ -23,6 +23,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    ae,
+    ps,
   } from "../assets";
   
   export const navLinks = [
@@ -93,6 +95,15 @@ import {
       name: "git",
       icon: git,
     },
+    {
+      name: "Photoshop",
+      icon: ps,
+    },
+    {
+      name: "After Effects",
+      icon: ae,
+    },
+   
 
   ];
   

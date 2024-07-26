@@ -1,7 +1,7 @@
 # React + Vite
 
 
-This site is live now at: https://guledportfolio.vercel.app/
+This site is live now at: https://guledabdi.vercel.app/
 
 
 

@@ -33,6 +33,9 @@ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-
 
 npm install -D tailwindcss postcss autoprefixer
 
+npm install react-intersection-observer
+
+
 npm run dev
 Make sure you have the correct extensions downloaded
 

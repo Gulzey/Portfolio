@@ -221,9 +221,9 @@ import {
       source_code_link: "https://github.com/Gulzey/AdhanAlert",
     },
     {
-      name: "Portfolio",
+      name: "G3ART",
       description:
-        "My portfolio web app is a showcase of dynamic, responsive websites and applications created by me. Featuring a collection of projects, it highlights my skills in designing and implementing user-friendly interfaces with robust functionality.",
+        "This site is an experimental project that has been created using ReactJS and threeJS. It showcases an artbook that holds my favorite pieces of art. Mainly illustrations from my top manga. This project is still in production and i am having fun with threeJS.",
       tags: [
         {
           name: "reactJS",
@@ -234,12 +234,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "tailwindcss",
+          name: "threeJs",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/Gulzey/PF",
+      source_code_link: "https://github.com/Gulzey/Artbook",
     },
   ];
   
